@@ -1,0 +1,13 @@
+{
+  "blocked_versions": [],
+  "channel": "stable",
+  "extension_version": "0.8.0",
+  "notes": "Smaller update package; no change to how the app works.",
+  "package_sha256": "a15d75f6c0e7e363d4051b9249144bd7277b1120fee7281d2b78cdf6bc26af7b",
+  "package_size": 356042,
+  "package_url": "../packages/green-receipts-2.1.15.zip",
+  "released": "2026-11-13",
+  "requires_bundle": 1,
+  "schema": 1,
+  "version": "2.1.15"
+}
